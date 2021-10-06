@@ -9,7 +9,7 @@ int main() {
     bool res;
     cout << "Enter odd digit number: "; 
     cin >> num;             //input number
-    while((num.size()%2)==0 || num.size()==1)
+    while((num.size()%2)==0)
     {
         cout << "Invalid input!\nEnter odd digit number again: "; 
         cin >> num;         //input number again
