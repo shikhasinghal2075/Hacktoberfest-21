@@ -35,3 +35,4 @@
 [Lokesh Gawande](https://github.com/lokesh21012002)\
 [Harshita Sharma](https://github.com/harshita214)\
 [Samir Kaushik](https://github.com/SamirKaushik)
+[Shikha Singhal](https://github.com/shikhasinghal2075)
